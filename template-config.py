@@ -5,3 +5,5 @@ CARD_MEMBER_FILTER = "JOHN DOE"
 OUTPUT_FILE = "~/output.csv"
 
 CATEGORIES_FILE = "~/categories.csv"
+
+TX_PRE_TRIM_LIST = [ ]
