@@ -163,3 +163,4 @@ cython_debug/
 
 config.py
 work
+.DS_Store
